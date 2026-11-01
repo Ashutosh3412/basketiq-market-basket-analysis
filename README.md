@@ -1,6 +1,4 @@
-# 🛒 BasketIQ — Market Basket Analysis
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white) ![pandas](https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white) ![mlxtend](https://img.shields.io/badge/mlxtend-0F766E?style=flat-square) ![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white) ![License MIT](https://img.shields.io/badge/License%20MIT-16A34A?style=flat-square)
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.svg"><img alt="BasketIQ — market basket analysis with the Apriori algorithm" src="assets/banner-light.svg" width="100%"></picture>
 
 **An interactive retail analytics dashboard powered by the Apriori algorithm.**
 
