@@ -1,5 +1,7 @@
 # 🛒 BasketIQ — Market Basket Analysis
 
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white) ![pandas](https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white) ![mlxtend](https://img.shields.io/badge/mlxtend-0F766E?style=flat-square) ![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white) ![License MIT](https://img.shields.io/badge/License%20MIT-16A34A?style=flat-square)
+
 **An interactive retail analytics dashboard powered by the Apriori algorithm.**
 
 BasketIQ is a Python-based data mining application that discovers frequently purchased products and identifies relationships between items in transaction data. It provides interactive visualizations, configurable analysis parameters, and downloadable results through a modern Streamlit dashboard.
@@ -62,6 +64,7 @@ basketiq-market-basket-analysis/
 ├── app.py
 ├── requirements.txt
 ├── README.md
+├── LICENSE
 └── .gitignore
 ```
 
@@ -72,11 +75,10 @@ The application accepts transaction data uploaded by the user. Keep large datase
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/basketiq-market-basket-analysis.git
+git clone https://github.com/Ashutosh3412/basketiq-market-basket-analysis.git
 cd basketiq-market-basket-analysis
 ```
 
-Replace `YOUR_USERNAME` with your GitHub username.
 
 ### 2. Create a virtual environment
 
@@ -161,4 +163,4 @@ BasketIQ was developed as a Data Mining / Business Analytics implementation proj
 
 ## 📜 License
 
-This project is intended for educational and demonstration purposes. A license has not been specified yet. Add a suitable open-source license if you decide to distribute or reuse the project publicly.
+Released under the [MIT License](LICENSE).
