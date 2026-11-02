@@ -1,5 +1,7 @@
 <picture><source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.svg"><img alt="BasketIQ — market basket analysis with the Apriori algorithm" src="assets/banner-light.svg" width="100%"></picture>
 
+<p align="center"><a href="https://basketiq-retail-insights.streamlit.app/"><strong>Open BasketIQ Live Demo ↗</strong></a></p>
+
 **An interactive retail analytics dashboard powered by the Apriori algorithm.**
 
 BasketIQ is a Python-based data mining application that discovers frequently purchased products and identifies relationships between items in transaction data. It provides interactive visualizations, configurable analysis parameters, and downloadable results through a modern Streamlit dashboard.
